@@ -1,0 +1,28 @@
+.news-item {
+  border: 1px solid #ccc;
+  margin-bottom: 20px;
+  padding: 10px;
+}
+
+.news-title {
+  font-size: 20px;
+  font-weight: bold;
+  margin-bottom: 5px;
+}
+
+.news-summary {
+  margin-bottom: 10px;
+}
+
+.news-image {
+  max-width: 100%;
+  height: auto;
+}
+
+.news-source {
+  font-style: italic;
+}
+
+.news-published {
+  font-size: 14px;
+}
